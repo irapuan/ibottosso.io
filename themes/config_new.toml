@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Irapuan's Blog"
+theme = "ananke"
+features = ["posts", "shortcodes", "related content", "comments"]
+
+[author]
+  name = "Bud Parr"
+  homepage = "https://github.com/budparr"
