@@ -1,4 +1,7 @@
-# Liderança tribal em equipes de software
+---
+title: "Liderança tribal em equipes de software"
+date: 2019-07-02T19:07:00+02:00
+---
 
 Na minha opinião o principal papel de um team leader é criar para o time um processo rápido e sustentável de desenvolvimento. Para que isso seja possível o líder de equipe precisa influenciar seu time por completo, claro que existem técnicas e métodos para influenciar membros da equipe individualmente, porém o que tenho percebido é que influenciar o grupo como um todo é muito mais poderoso do que focar individualmente nas pessoas.
 
