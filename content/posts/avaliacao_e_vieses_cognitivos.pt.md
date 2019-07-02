@@ -2,7 +2,7 @@
 title: "Avaliações de performance e vieses cognitivos"
 translationKey: "appraisal_and_cognitive_bias"
 date: 2019-07-02T21:17:00+02:00
-featured_images: "/images/brain.jpg"
+featured_image: '/images/brain.jpg'
 ---
 Eu acho avaliação de performance a coisa mais difícil que um team leader tem que fazer, simplesmente porque eu sei que nós humanos somos extremamente influenciados por comportamentos nada objetivos e justos, resumindo temos vários vieses cognitivos que dificultam ou impossibilitam uma avaliação crítica e justa dos nossos colegas.
 

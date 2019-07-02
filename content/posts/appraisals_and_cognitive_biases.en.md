@@ -2,7 +2,7 @@
 title: "Avaliações de performance e vieses cognitivos"
 translationKey: "appraisal_and_cognitive_bias"
 date: 2019-07-02T21:17:00+02:00
-featured_images: "/images/brain.jpg"
+featured_image: '/images/brain.jpg'
 ---
 
 Post not availabel in English yet!
