@@ -30,3 +30,10 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/coffee.jpg"
   recent_posts_number = 2
+[languages]
+  [languages.en]
+    title = "Irapuan on dev"
+    weight = 1
+  [languages.pt]
+    title = "Irapuan on dev"
+    weight = 2
